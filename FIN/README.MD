@@ -1,4 +1,4 @@
-Buenas para ejecutar el código hay que hacer lo siguiente:
+Para ejecutar el código hay que hacer lo siguiente:
   1. Instalarse streamlit
   2. Se ejecuta desde la terminal de visual o donde sea directamente
 
